@@ -1,4 +1,4 @@
-# hello-world
-my learning space
+# Hello world!
+This is my learning space.
 
-this is my first step into github i need sometime to learn it.
+My first step into github I need sometime to learn it.
